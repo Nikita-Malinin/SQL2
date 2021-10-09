@@ -1,17 +1,4 @@
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: center; border: none;">
 
-  <
-    <td style="text-align: center; border: none; height: 15em;">
-    <h2 style="font-size:3em;"></h2>
-      <h3><br><br> Тема:<b> <b> </h3></td>
-  
-    <br><br><td style="text-align: right; border: none; height: 20em;">
-  
-    </td>
-  
-    <td style="text-align: center; border: none; height: 5em;">
    ![](./img/2.png)
   </tr>
    <Window.Resources>
@@ -101,8 +88,7 @@
   </Grid>
    </Window>
 
-</table>
-<div style="page-break-after: always;"></div>
+
 
 
 
