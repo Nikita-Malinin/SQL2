@@ -1,5 +1,5 @@
 
-   ![](./img/2.png)
+   ![](./2.png)
   </tr>
    <Window.Resources>
         <BitmapImage 
